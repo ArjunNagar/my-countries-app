@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/search-and-filter-countries-app/static/css/main.6c5b4476.css",
+    "main.js": "/search-and-filter-countries-app/static/js/main.a8ffe017.js",
+    "static/js/787.e4ff52f4.chunk.js": "/search-and-filter-countries-app/static/js/787.e4ff52f4.chunk.js",
+    "index.html": "/search-and-filter-countries-app/index.html",
+    "main.6c5b4476.css.map": "/search-and-filter-countries-app/static/css/main.6c5b4476.css.map",
+    "main.a8ffe017.js.map": "/search-and-filter-countries-app/static/js/main.a8ffe017.js.map",
+    "787.e4ff52f4.chunk.js.map": "/search-and-filter-countries-app/static/js/787.e4ff52f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5b4476.css",
+    "static/js/main.a8ffe017.js"
+  ]
+}
